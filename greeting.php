@@ -12,3 +12,4 @@ if ($hour >= 5 && $hour < 12) {
 } else {
     echo "<h2>Good Night!</h2>";
 }
+?>
